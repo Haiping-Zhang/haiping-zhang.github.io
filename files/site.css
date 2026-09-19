@@ -1,0 +1,7 @@
+/* The only rules from Weebly's 211 KB base stylesheet that this site's layout uses */
+.wsite-logo { display: inline-block; vertical-align: top; }
+.wsite-logo span { vertical-align: top; }
+#container .clear { clear: both; width: 100%; height: 1px; margin-bottom: -1px; overflow: hidden; }
+
+/* Footer (replaces the "Powered by Weebly" bar) */
+#footer .site-footer { margin: 0; color: #888; }
